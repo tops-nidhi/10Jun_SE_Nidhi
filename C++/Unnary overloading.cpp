@@ -25,8 +25,10 @@ class Poly
 int main()
 {
     Poly py1(23);
+    
     py1.print();
     ++py1;
-    cout<<endl<<"After unnary operator";
-    py1.print();
+    Poly py2(py1);
+    cout<<endl<<"After unnary operator ";
+    py2.print();
 }
