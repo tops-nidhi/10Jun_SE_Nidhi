@@ -1,4 +1,4 @@
-#include<iostream>dc
+#include<iostream>
 using namespace std;
 class Poly
 {
