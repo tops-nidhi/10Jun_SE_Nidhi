@@ -1,4 +1,4 @@
-#include<iostream>cdf
+#include<iostream>
 using namespace std;
 class Poly
 {
