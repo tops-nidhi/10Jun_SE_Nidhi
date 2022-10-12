@@ -1,0 +1,7 @@
+DML-Data Manupalation Language
+1.Insert
+Insert into `table name` (`column1`, `column2`, `coulumnN........`) values 
+('value-1','value-2','value-N');
+
+2.Delete
+Delete `table name` where condition

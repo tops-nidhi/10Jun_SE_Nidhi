@@ -1,0 +1,7 @@
+CREATE  TABLE `course` 
+(
+    `cid` int (10),
+    `cnm` varchar (20),
+    `price` float (20),
+    `time` int (10)
+)

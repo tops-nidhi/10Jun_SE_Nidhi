@@ -1,0 +1,11 @@
+DDL-Data defination language
+1. Create
+Database:-Create Database `Name_of_the_database`;
+Table:-Create Table `Name of table` (`column_name1` datatype (size));
+
+2. Alter
+Alter table `table name` change|modify|add|rename  
+
+3. Drop
+drop database `database name`
+drop table `table name`
